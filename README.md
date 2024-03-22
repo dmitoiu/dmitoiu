@@ -1,2 +1,2 @@
-![](Docs/Darie_Software_Service.gif)
+![](Docs/996617aea8606062587aa28fa386c4d3.png)
 
