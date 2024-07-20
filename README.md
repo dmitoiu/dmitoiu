@@ -17,11 +17,11 @@ If you are interested in software services, [Get in Touch!](mailto:dmitoiu@hotma
 
 **Română**
 
-Bună, numele meu este Darie, dar pe **internet folosesc dmitoiu**. Pe langă programare sunt interesat in rețelistică, criptografie, învățare automată, administrarea bazelor de date și in general de Inginerie.
+Bună, numele meu este Darie, dar pe **internet folosesc dmitoiu**. Pe lângă programare sunt interesat in rețelistică, criptografie, învățare automată, administrarea bazelor de date și în general de Inginerie.
 
-Ajut companii Software cu dezvoltare de API si inginerie software pe bază de contract independent în Uniunea Europeană si in Toată Lumea. În trecut m-am bucurat sa colaborez cu Ingineri specializați în învățare Automată și Specialiști în Știința Datelor pentru a pune in producție diferite experimente.  
+Ajut companii Software cu dezvoltare de API și inginerie software pe bază de contract independent în Uniunea Europeană si in Toată Lumea. În trecut m-am bucurat sa colaborez cu Ingineri specializați în învățare Automată și Specialiști în Știința Datelor pentru a pune in producție diferite experimente.  
 
-In principal, mă adresez companiilor sau persoanelor fizice aflate in expansiune, hotărâte să beneficieze de avantajele comerciale ale prezenței pe internet, antreprenorilor porniți in căutarea, atragerea si valorificarea publicului țintă.
+In principal, mă adresez companiilor sau persoanelor fizice aflate in expansiune, hotărâte să beneficieze de avantajele comerciale ale prezenței pe internet, antreprenorilor porniți în căutarea, atragerea și valorificarea publicului țintă.
 
 Sunt Interesat în contracte pe durată nedeterminată sau contracte pe durată determinată pentru a lucra cu limbaje de programare precum C#, PHP, JavaScript sau Python.
 
