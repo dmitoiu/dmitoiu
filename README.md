@@ -17,7 +17,7 @@ If you are interested in software services, [Get in Touch!](mailto:dmitoiu@hotma
 
 **Română**
 
-Bună, numele meu este Darie, dar pe **internet folosesc dmitoiu**. Pe lângă programare sunt interesat in rețelistică, criptografie, învățare automată, administrarea bazelor de date și în general de Inginerie. Mă ocup și de [grafică](https://dmitoiu.com) precum in animația de mai sus.
+Bună, numele meu este Darie, dar pe **internet folosesc dmitoiu**. Pe lângă programare sunt interesat in rețelistică, criptografie, învățare automată, administrarea bazelor de date și în general de Inginerie. Mă ocup și de [grafică](https://dmitoiu.com) precum în animația de mai sus.
 
 Ajut companii Software cu dezvoltare de API și inginerie software pe bază de contract independent în Uniunea Europeană si in Toată Lumea. În trecut m-am bucurat sa colaborez cu Ingineri specializați în învățare Automată și Specialiști în Știința Datelor pentru a pune in producție diferite experimente.  
 
