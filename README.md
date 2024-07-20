@@ -2,6 +2,8 @@
 
 ![](Docs/88445674fd944fd1db76140e2e989887.gif)
 
+<font color="#cf3e3e">**EN**</font>
+
 Hi, **I am Darie**, but I go by **dmitoiu on the internet**. Apart from programming I am interested in networking, cryptography, machine learning, database administration and engineering in general. 
 I also do [graphics](https://dmitoiu.com) as the animation above.
 
