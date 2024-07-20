@@ -9,4 +9,6 @@ I help companies with API development and software engineering on freelance basi
 
 I am interested in permanent or temporary contracts working with C#, PHP, JavaScript or Python.
 
-If you are interested in software services, Get in Touch! [Curriculum Vitae](https://github.com/dmitoiu/Curriculum-Vitae/blob/master/Darie-Dragos_Mitoiu_Resume.pdf)
+If you are interested in software services, Get in Touch! 
+
+[Curriculum Vitae](https://github.com/dmitoiu/Curriculum-Vitae/blob/master/Darie-Dragos_Mitoiu_Resume.pdf)
