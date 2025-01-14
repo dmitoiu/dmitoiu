@@ -1,6 +1,6 @@
 # Hey, I am [Darie](https://www.linkedin.com/in/dmitoiu)!
 
-![](Docs/21ab5e0eac44c39c7970f10e290e7fa2.gif)
+![](Docs/7ae83c7088734a9fefde99e60130b639.gif)
 
 Hi, **I am Darie**, but I go by **dmitoiu on the internet**. Apart from programming I am interested in networking, cryptography, machine learning, database administration and engineering in general. 
 I also do [graphics](https://github.com/dmitoiu/Limbaje-De-Programare-Footage) as the animation above.
