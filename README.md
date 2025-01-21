@@ -13,4 +13,4 @@ If you are interested in software services, [Get in Touch!](mailto:dmitoiu@hotma
 
 [Curriculum Vitae](https://github.com/dmitoiu/Curriculum-Vitae/blob/master/Darie-Dragos_Mitoiu_Resume.pdf)
 
-![Profile views counter](https://www.dmitoiu.ro/trace/registry.php?property=darie&use_profile_label=1)
+![Profile views counter](https://www.dmitoiu.ro/trace/stamp.php?property=darie&use_profile_label=1)
