@@ -12,7 +12,7 @@ Experiments into Production.
 
 I’m particularly focused on building maintainable and scalable code across both client and server side.
 I’ve worked on a range of projects, from enterprise tools to academic research applications, 
-and I’m always looking for ways to improve development systems designs.
+and I’m always looking for ways to improve systems designs.
 
 I am interested in permanent or fixed-term contracts working with C#, PHP, JavaScript or Python.
 
