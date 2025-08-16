@@ -17,5 +17,3 @@ and I’m always looking for ways to improve systems designs.
 I am interested in permanent or fixed-term contracts working with C#, PHP, JavaScript or Python.
 
 If you are interested in software services, [Get in Touch!](mailto:dmitoiu@hotmail.com)
-
-[Curriculum Vitae](https://github.com/dmitoiu/Curriculum-Vitae/blob/master/Darie-Dragos_Mitoiu_Resume.pdf)
