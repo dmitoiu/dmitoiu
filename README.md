@@ -6,7 +6,7 @@ Hi, **I am Darie**, but I go by **dmitoiu on the internet**. Apart from programm
 cryptography, machine learning, database administration and engineering in general.
 I also do [graphics](https://github.com/dmitoiu/Limbaje-De-Programare-Footage) as the animation above.
 
-I help companies with API development and software engineering in the European Union and Worldwide.
+I help companies with API development and software engineering in the European Union.
 In the past I have enjoyed collaborating with Machine Learning Engineers and Data Scientists to help put their 
 Experiments into Production.
 
