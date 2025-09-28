@@ -1,6 +1,6 @@
 # Hey, I am [Darie](https://www.linkedin.com/in/dmitoiu)!
 
-![](data/7ae83c7088734a9fefde99e60130b639.gif)
+![](docs/7ae83c7088734a9fefde99e60130b639.gif)
 
 Hi, **I am Darie**, but I go by **dmitoiu on the internet**. Apart from programming I am interested in networking,
 cryptography, machine learning, database administration and engineering in general.
@@ -16,4 +16,4 @@ and I’m always looking for ways to improve systems designs.
 
 If you are interested in software services, [Get in Touch!](mailto:dmitoiu@hotmail.com)
 
-[![Curriculum Vitae](data/fa9c281aff21c30e888cc0d75488115e.svg)](https://github.com/dmitoiu/Curriculum-Vitae/blob/master/Darie-Dragos_Mitoiu_Resume.pdf)
+[![Curriculum Vitae](docs/fa9c281aff21c30e888cc0d75488115e.svg)](https://github.com/dmitoiu/Curriculum-Vitae/blob/master/Darie-Dragos_Mitoiu_Resume.pdf)
